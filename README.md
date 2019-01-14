@@ -23,3 +23,5 @@ Target classes represents the poverty level on a 1-4 scale
 
 
 Information about other variables can be found at https://www.kaggle.com/c/costa-rican-household-poverty-prediction/data
+
+Binary Classification - Version 1.ipynb has code for classification after grouping all the minority classes to improve accuracy.
