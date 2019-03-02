@@ -1,4 +1,9 @@
+
+## Note: In case of reload error you can copy paste the *.ipynb notebook link that you want to view in "https://nbviewer.jupyter.org/"
+(sometimes github fails to render the ipynb notebooks, I believe that is some temporary (and recurring) issue with their backend)
+
 # Costa-Rica-Household-Prediction
+
 Supervised multi-class classification problem - Classifying households into income levels as poverty and non-poverty
 
 The file is a set of household characteristics from a representative sample of Costa Rican Households. The dataset has observations for each member of the household but the classification is done at the household level. That is, households cannot have two different classifications. Data is not presented at the household level. So, I created my own household features from individual data.
